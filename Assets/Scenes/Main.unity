@@ -362,6 +362,7 @@ GameObject:
   - component: {fileID: 2112447275}
   - component: {fileID: 2112447274}
   - component: {fileID: 2112447278}
+  - component: {fileID: 2112447279}
   m_Layer: 0
   m_Name: AR Camera
   m_TagString: Untagged
@@ -490,3 +491,11 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   m_MaxRayIntersections: 100
+--- !u!81 &2112447279
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2112447272}
+  m_Enabled: 1
