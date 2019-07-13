@@ -10,7 +10,17 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: d76c0122c4fd549f8a1dde07f92b67f3,
         type: 3}
       propertyPath: m_Name
-      value: Hato
+      value: Hato Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: -6057140222963153312, guid: d76c0122c4fd549f8a1dde07f92b67f3,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: b8e7fe9020cef4cd88ca59689f00406a, type: 2}
+    - target: {fileID: -6057140222963153312, guid: d76c0122c4fd549f8a1dde07f92b67f3,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: d76c0122c4fd549f8a1dde07f92b67f3,
         type: 3}
