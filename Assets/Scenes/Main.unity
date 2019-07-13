@@ -275,7 +275,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da0396e754aca4575abc67d4fd7d981a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 4271566258067700446, guid: 15b6e15c5338242b2b6f7b7d9380600a, type: 3}
+  prefab: {fileID: 4271566258067700446, guid: d52bbc167f583461b9f6af3c6f65112f, type: 3}
   arPlaneManager: {fileID: 559019456}
 --- !u!4 &817685567
 Transform:

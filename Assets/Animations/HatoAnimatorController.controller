@@ -20,7 +20,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 1827226128182048838, guid: cccd3ce0dd7144d30a9a3cefe1ceab87,
+  m_Motion: {fileID: -203655887218126122, guid: e349b6765218a4ff6a86fa5ab93ba57d,
     type: 3}
   m_Tag: 
   m_SpeedParameter: Speed
@@ -55,7 +55,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TurkeyAnimatorController
+  m_Name: HatoAnimatorController
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Speed
@@ -63,7 +63,7 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
